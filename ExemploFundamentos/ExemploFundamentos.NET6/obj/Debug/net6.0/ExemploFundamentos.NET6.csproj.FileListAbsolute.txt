@@ -1,0 +1,14 @@
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.exe
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.deps.json
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.runtimeconfig.json
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.dll
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.pdb
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.AssemblyInfoInputs.cache
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.AssemblyInfo.cs
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.csproj.CoreCompileInputs.cache
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.dll
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\refint\ExemploFundamentos.NET6.dll
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.pdb
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.genruntimeconfig.cache
+D:\Developer\fullstack_xp_dio\Studies\ExemploFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ref\ExemploFundamentos.NET6.dll

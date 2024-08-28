@@ -1,0 +1,14 @@
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\refint\ExemploPOO.dll
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll

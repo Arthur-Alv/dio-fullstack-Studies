@@ -12,3 +12,4 @@ D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\refint\Exemplo
 D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
 D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
 D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
+D:\Developer\fullstack_xp_dio\Studies\ExemploPOO\obj\Debug\net6.0\ExemploPOO.sourcelink.json
